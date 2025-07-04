@@ -1,0 +1,48 @@
+# Vivado & FPGA tool generated files
+*.jou
+*.log
+*.str
+*.pb
+*.rpt
+*.xml
+*.html
+*.wdb
+
+# Vivado project auto-generated directories
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+.gen/
+.tmp/
+.compile_simlib/
+impl_*/
+synth_*/
+
+# Simulation & waveform output
+*.vcd
+*.wcfg
+*.wlf
+
+# Netlists & wrappers that can be regenerated
+*sim_netlist.*
+*ooc.*
+*wrapper.*
+*stub.*
+
+# Binary/bitstream files
+*.bin
+*.bit
+*.elf
+*.mmi
+
+# Vivado database & misc
+*.Xil/
+*.xpr.cache/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/ 

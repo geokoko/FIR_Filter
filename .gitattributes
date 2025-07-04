@@ -1,0 +1,6 @@
+*.html linguist-vendored
+*.log linguist-generated
+*.jou linguist-generated
+*.xml linguist-generated
+*.xci linguist-generated
+*.json linguist-generated
